@@ -1,6 +1,6 @@
 Cartografía
 
-Mapas libres hechos en Espacio Vectorial (El Bolsón, Patagonia Argentina). Herramientas autocontenidas — un solo archivo HTML, sin backend — para entender y recorrer el territorio.
+Mapas y herramienbtas libres hechos en Espacio Vectorial (El Bolsón, Patagonia Argentina). Herramientas autocontenidas.
 
 Proyectos
 
